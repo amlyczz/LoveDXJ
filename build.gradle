@@ -8,9 +8,7 @@ version = "0.1"
 group = "my.love"
 
 repositories {
-    maven {
-        url "https://github.com/micronaut-projects/micronaut-gradle-plugin"
-    }
+ 
     mavenCentral()
 }
 
